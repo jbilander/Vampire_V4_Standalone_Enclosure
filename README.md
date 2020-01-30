@@ -139,5 +139,62 @@ I printed this part using PLA 60% infill, 220/80°C (Nozzle/Bed temp) and with a
 <a href="images/Enclosure_for_Vampire_V4_Standalone_pic35.jpg">
 <img src="images/Enclosure_for_Vampire_V4_Standalone_pic35.jpg" width="252" height="189">
 </a>
+<a href="images/Enclosure_for_Vampire_V4_Standalone_pic36.jpg">
+<img src="images/Enclosure_for_Vampire_V4_Standalone_pic36.jpg" width="252" height="189">
+</a>
+<a href="images/Enclosure_for_Vampire_V4_Standalone_pic37.jpg">
+<img src="images/Enclosure_for_Vampire_V4_Standalone_pic37.jpg" width="252" height="189">
+</a>
+<a href="images/Enclosure_for_Vampire_V4_Standalone_pic38.jpg">
+<img src="images/Enclosure_for_Vampire_V4_Standalone_pic38.jpg" width="252" height="189">
+</a>
+<a href="images/Enclosure_for_Vampire_V4_Standalone_pic39.jpg">
+<img src="images/Enclosure_for_Vampire_V4_Standalone_pic39.jpg" width="252" height="189">
+</a>
+<a href="images/Enclosure_for_Vampire_V4_Standalone_pic40.jpg">
+<img src="images/Enclosure_for_Vampire_V4_Standalone_pic40.jpg" width="252" height="189">
+</a>
+<a href="images/Enclosure_for_Vampire_V4_Standalone_pic41.jpg">
+<img src="images/Enclosure_for_Vampire_V4_Standalone_pic41.jpg" width="252" height="189">
+</a>
+<a href="images/Enclosure_for_Vampire_V4_Standalone_pic42.jpg">
+<img src="images/Enclosure_for_Vampire_V4_Standalone_pic42.jpg" width="252" height="189">
+</a>
+<a href="images/Enclosure_for_Vampire_V4_Standalone_pic43.jpg">
+<img src="images/Enclosure_for_Vampire_V4_Standalone_pic43.jpg" width="252" height="189">
+</a>
+<a href="images/Enclosure_for_Vampire_V4_Standalone_pic44.jpg">
+<img src="images/Enclosure_for_Vampire_V4_Standalone_pic44.jpg" width="252" height="189">
+</a>
+<a href="images/Enclosure_for_Vampire_V4_Standalone_pic45.jpg">
+<img src="images/Enclosure_for_Vampire_V4_Standalone_pic45.jpg" width="252" height="189">
+</a>
+<a href="images/Enclosure_for_Vampire_V4_Standalone_pic46.jpg">
+<img src="images/Enclosure_for_Vampire_V4_Standalone_pic46.jpg" width="252" height="189">
+</a>
+<a href="images/Enclosure_for_Vampire_V4_Standalone_pic47.jpg">
+<img src="images/Enclosure_for_Vampire_V4_Standalone_pic47.jpg" width="252" height="189">
+</a>
+<a href="images/Enclosure_for_Vampire_V4_Standalone_pic48.jpg">
+<img src="images/Enclosure_for_Vampire_V4_Standalone_pic48.jpg" width="252" height="189">
+</a>
+<a href="images/Enclosure_for_Vampire_V4_Standalone_pic49.jpg">
+<img src="images/Enclosure_for_Vampire_V4_Standalone_pic49.jpg" width="252" height="189">
+</a>
+<a href="images/Enclosure_for_Vampire_V4_Standalone_pic50.jpg">
+<img src="images/Enclosure_for_Vampire_V4_Standalone_pic50.jpg" width="252" height="189">
+</a>
+<a href="images/Enclosure_for_Vampire_V4_Standalone_pic51.jpg">
+<img src="images/Enclosure_for_Vampire_V4_Standalone_pic51.jpg" width="252" height="189">
+</a>
+<a href="images/Enclosure_for_Vampire_V4_Standalone_pic52.jpg">
+<img src="images/Enclosure_for_Vampire_V4_Standalone_pic52.jpg" width="252" height="189">
+</a>
+<a href="images/Enclosure_for_Vampire_V4_Standalone_pic53.jpg">
+<img src="images/Enclosure_for_Vampire_V4_Standalone_pic53.jpg" width="252" height="189">
+</a>
+<a href="images/Enclosure_for_Vampire_V4_Standalone_pic54.jpg">
+<img src="images/Enclosure_for_Vampire_V4_Standalone_pic54.jpg" width="252" height="189">
+</a>
 
-Under Construction...
+That's all folks!
