@@ -84,7 +84,7 @@ Why no STEP-file? Sorry I do not have the Exchange add-on module to export geome
 
 Bottom part:
 
-I printed this part using PLA 60% infill, 220/80°C (Nozzle/Bed temp) and with a Brim slicing in Cura...Print took about 8h to finish.
+I printed this part using PLA 60% infill, 220/80°C (Nozzle/Bed temp) and with a Brim slicing in Cura...Print took about 8h to finish for Mr Ender.
 
 <a href="images/Enclosure_for_Vampire_V4_Standalone_pic22.jpg">
 <img src="images/Enclosure_for_Vampire_V4_Standalone_pic22.jpg" width="252" height="189">
@@ -97,5 +97,47 @@ I printed this part using PLA 60% infill, 220/80°C (Nozzle/Bed temp) and with a
 </a>
 
 ***
+
+
+<a href="images/Enclosure_for_Vampire_V4_Standalone_pic25.jpg">
+<img src="images/Enclosure_for_Vampire_V4_Standalone_pic25.jpg" width="659" height="428">
+</a>
+<br />
+
+Top part:
+<br />
+I printed this part using PLA 60% infill, 220/80°C (Nozzle/Bed temp) and with a Brim and Support Structure enabled when slicing in Cura...I first tried printing it upside down on several trials but didn't manage to get the Vampire-text to come out good. I then switched tactic to print it the "correct" way enabling/generating support structure when slicing in Cura. Print took about 15h!!!, and it was a lot of trimming to do afterwards to remove the "guts".
+
+<br />
+<a href="images/Enclosure_for_Vampire_V4_Standalone_pic26.jpg">
+<img src="images/Enclosure_for_Vampire_V4_Standalone_pic26.jpg" width="252" height="189">
+</a>
+<a href="images/Enclosure_for_Vampire_V4_Standalone_pic27.jpg">
+<img src="images/Enclosure_for_Vampire_V4_Standalone_pic27.jpg" width="252" height="189">
+</a>
+<a href="images/Enclosure_for_Vampire_V4_Standalone_pic28.jpg">
+<img src="images/Enclosure_for_Vampire_V4_Standalone_pic28.jpg" width="252" height="189">
+</a>
+<a href="images/Enclosure_for_Vampire_V4_Standalone_pic29.jpg">
+<img src="images/Enclosure_for_Vampire_V4_Standalone_pic29.jpg" width="252" height="189">
+</a>
+<a href="images/Enclosure_for_Vampire_V4_Standalone_pic30.jpg">
+<img src="images/Enclosure_for_Vampire_V4_Standalone_pic30.jpg" width="252" height="189">
+</a>
+<a href="images/Enclosure_for_Vampire_V4_Standalone_pic31.jpg">
+<img src="images/Enclosure_for_Vampire_V4_Standalone_pic31.jpg" width="252" height="189">
+</a>
+<a href="images/Enclosure_for_Vampire_V4_Standalone_pic32.jpg">
+<img src="images/Enclosure_for_Vampire_V4_Standalone_pic32.jpg" width="252" height="189">
+</a>
+<a href="images/Enclosure_for_Vampire_V4_Standalone_pic33.jpg">
+<img src="images/Enclosure_for_Vampire_V4_Standalone_pic33.jpg" width="252" height="189">
+</a>
+<a href="images/Enclosure_for_Vampire_V4_Standalone_pic34.jpg">
+<img src="images/Enclosure_for_Vampire_V4_Standalone_pic34.jpg" width="252" height="189">
+</a>
+<a href="images/Enclosure_for_Vampire_V4_Standalone_pic35.jpg">
+<img src="images/Enclosure_for_Vampire_V4_Standalone_pic35.jpg" width="252" height="189">
+</a>
 
 Under Construction...
