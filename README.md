@@ -3,7 +3,8 @@ A Classic Amiga Enclosure for the Vampire V4 Standalone PCB
 
 3d-model was created in DesignSpark Mechanical 4.0
 
-All dimensions were reverse engineered using a digital caliper measuring a real Vampire V4 PCB rev 3C
+All dimensions were reverse engineered using a digital caliper measuring a real Vampire V4 PCB rev 3C.
+Sticker size is 49x13 mm.
 
 Why no STEP-file? Sorry I do not have the Exchange add-on module to export geometry to STEP and IGES formats. The free version of Designspark Mechanical 4.0 doesn't support it.
 
