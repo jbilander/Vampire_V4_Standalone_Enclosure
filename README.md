@@ -199,3 +199,4 @@ I printed this part using PLA 60% infill, 220/80°C (Nozzle/Bed temp) and with a
 </a>
 
 That's all folks!
+Oh, you want the V4-sticker? Send me an email and I'll send you one for cost ;) jorgen.bilander at gmail.com
