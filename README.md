@@ -4,7 +4,7 @@ A Classic Amiga Enclosure for the Vampire V4 Standalone PCB
 3d-model was created in DesignSpark Mechanical 4.0
 
 All dimensions were reverse engineered using a digital caliper measuring a real Vampire V4 PCB rev 3C. 
-<br />Sticker size is 49x13 mm (cutout 50x13,5 mm).<br /> Compatible A1200 front LEDs are Type 1, 15mm (Rev. B and Rev. C) of classic Amiga 1200 cases.
+<br />Sticker size is 49x13 mm (groove is 50x13,5 mm).<br /> Compatible A1200 front LEDs are Type 1, 15mm (Rev. B and Rev. C) of classic Amiga 1200 cases.
 
 Why no STEP-file? Sorry I do not have the Exchange add-on module to export geometry to STEP and IGES formats. The free version of Designspark Mechanical 4.0 doesn't support it.
 
@@ -15,6 +15,14 @@ Why no STEP-file? Sorry I do not have the Exchange add-on module to export geome
 <img src="images/Enclosure_for_Vampire_V4_Standalone_pic2.jpg" width="360" height="315">
 </a>
 
+***
+### UPDATE: 
+
+Thomas Köckerbauer has made an excellent small PCB with a header for connecting an A1200 LED PCB to the V4SA
+
+https://github.com/tkoecker/Amiga_1200_LED_Header_for_Vampire_4_SA
+
+Many thanks Thomas!
 
 ***
 
@@ -197,6 +205,7 @@ I printed this part using PLA 60% infill, 220/80°C (Nozzle/Bed temp) and with a
 <a href="images/Enclosure_for_Vampire_V4_Standalone_pic54.jpg">
 <img src="images/Enclosure_for_Vampire_V4_Standalone_pic54.jpg" width="252" height="189">
 </a>
-
+<br />
 That's all folks!
-Oh, you want the V4-sticker? Send me an email and I'll send you one for cost ;) jorgen.bilander at gmail.com
+<br />
+Oh, you want a V4-sticker or two? Drop me an email and I'll send you one for cost ;) jorgen.bilander at gmail.com
